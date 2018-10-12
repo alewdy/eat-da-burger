@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alewdy/eat-da-burger.git"
+    "url": "git+https://github.com/alewdy/burger.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/alewdy/eat-da-burger/issues"
+    "url": "https://github.com/alewdy/burger/issues"
   },
-  "homepage": "https://github.com/alewdy/eat-da-burger#readme",
+  "homepage": "https://github.com/alewdy/burger#readme",
   "dependencies": {
     "body-parser": "^1.18.3",
     "express": "^4.16.3",
